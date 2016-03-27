@@ -1,0 +1,35 @@
+main {
+	width:50%;
+	margin: 0 auto;
+	background-color: #FFEEC3;
+	height: 100%;
+	padding: 50px;
+	text-align: center;
+	font-family: 'Patrick Hand SC', cursive;
+}
+h1,h6 {
+	color: #2A6C8C;
+	margin: 0 auto;
+	font-size: 32px;
+	margin-bottom: 30px;
+}
+p {
+	margin-bottom: -15px;
+}
+h6 {
+	font-size:22px;
+	margin-top: 20px;
+}
+table {
+	margin: 0 auto;
+}
+table > tbody > tr > td {
+	width:70px;
+	height:70px;
+	text-align: center;
+	background-color: #FFE193;
+	font-family: Verdana;
+	font-size: 32px;
+	color:#2A6C8C;
+	cursor: pointer;
+}
